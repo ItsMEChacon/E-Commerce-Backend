@@ -1,6 +1,6 @@
-![Insomnia testing](https://streamable.com/lc2bzp)
+[![Insomnia testing]](https://streamable.com/lc2bzp)
 
-![Seeding and Starting Server](https://streamable.com/yuf30l)
+[![Seeding and Starting Server]](https://streamable.com/yuf30l)
   
   > # **E-Commerce Backend**
 
